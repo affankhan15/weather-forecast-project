@@ -1,0 +1,6 @@
+Adding Files to the Repository
+1. Navigate to the directory where your repository is cloned on your local machine.
+2. Create a file (or multiple files) that you want to add to the repository.
+3. In the terminal window, navigate to the root directory of your repository.
+4. Type "git status" to see the files that have been changed or added.
+5. Type "git add " followed by the name of the file you want to add, or use "git add ." to add all files in the current directory. This will stage the files for commit.
